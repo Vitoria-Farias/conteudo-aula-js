@@ -1,4 +1,4 @@
-// Exemplo de condição ternária
+//  Exemplo de condição ternária
 let idade = 19;
 let texto = (idade > 18) ? 'Adulto!' : 'Menor!';
 

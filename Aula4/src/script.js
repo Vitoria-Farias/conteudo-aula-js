@@ -61,7 +61,7 @@ let mensagem = 'Você não pode dirigir!';
 //document.getElementById('ex3').innerHTML = mensagem;
 
 
-// Exemplo de If aninhado com operador ANS (&&)
+// Exemplo de If aninhado com operador AND (&&)
 let idade3 = 16;
 let pais2 = 'Estados Unidos';
 let mensagem2 = 'Você não pode dirigir';

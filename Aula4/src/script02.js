@@ -33,5 +33,5 @@ if (hora > 18) {
 }
 
 document.getElementById('ex1').innerHTML = saudacao;
-//document.getElementById('ex2').innerHTML =  'Agora são: ' + horario;
+// document.getElementById('ex2').innerHTML =  'Agora são: ' + horario;
 document.getElementById('ex2').innerHTML =`Agora são: ${horario}`;
